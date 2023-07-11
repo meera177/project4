@@ -1,0 +1,23 @@
+.part1{
+    height: 200px;
+    background-color: violet;
+    color: aliceblue;
+}
+#name{
+    color: aliceblue;
+}
+.part2{
+    height: fit-content;
+    background-color: yellow;
+    color: aliceblue;
+}
+.part3{
+    height: max-content;
+    background-color: pink;
+    color: aliceblue;
+}
+.part4{
+    height: fit-content;
+    background-color: green ;
+    color: aliceblue;
+}
